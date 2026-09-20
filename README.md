@@ -8,7 +8,7 @@ El objetivo de este proyecto es comprender y aplicar el concepto de **Árbol Bin
 ## 👥 Sustentación
 Se presenta la explicación individual sobre la lógica de los punteros en el árbol (máximo 3 minutos):
 
-* **[Nombre del Integrante 1]** - [https://drive.google.com/file/d/1z4mvgwWcJzpserUrnOXu0sNTF_t9gIMZ/view?usp=sharing]
+* **[Uriel de Jesus Garcia Rios]** - [https://drive.google.com/file/d/1z4mvgwWcJzpserUrnOXu0sNTF_t9gIMZ/view?usp=sharing]
 
 ---
 
