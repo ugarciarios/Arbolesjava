@@ -41,16 +41,16 @@ El proyecto está dividido estrictamente en tres clases dinámicas:
 
 ### 1. Menú Principal
 Aquí se muestra la interfaz inicial del sistema en consola.
-![Menú Principal](![alt text](image.png))
+![Menú Principal](![alt text](images/image.png))
 
 ### 2. Registrar / Insertar Producto
 Ejemplo de inserción de productos con IDs desordenados para verificar la lógica del árbol.
-![Registro de Producto](![alt text](image-1.png))
+![Registro de Producto](![alt text](images/image-1.png))
 
 ### 3. Mostrar Inventario (Recorrido Inorden)
 Demostración de cómo el sistema lista los productos organizados de menor a mayor automáticamente por su ID.
-![Recorrido Inorden](![alt text](image-2.png))
+![Recorrido Inorden](![alt text](images/image-2.png))
 
 ### 4. Buscar Producto
 Prueba de búsqueda exitosa y fallo cuando el ID no existe en el sistema.
-![Búsqueda de Producto](![alt text](image-3.png))
+![Búsqueda de Producto](![alt text](images/image-3.png))
