@@ -8,7 +8,7 @@ El objetivo de este proyecto es comprender y aplicar el concepto de **Árbol Bin
 ## 👥 Sustentación
 Se presenta la explicación individual sobre la lógica de los punteros en el árbol (máximo 3 minutos):
 
-* **[Nombre del Integrante 1]** - [Enlace al Video de Sustentación 1]
+* **[Nombre del Integrante 1]** - [https://drive.google.com/file/d/1z4mvgwWcJzpserUrnOXu0sNTF_t9gIMZ/view?usp=sharing]
 
 ---
 
@@ -20,7 +20,7 @@ Se presenta la explicación individual sobre la lógica de los punteros en el á
 ### Instrucciones de Ejecución
 1. Clone este repositorio:
    ```bash
-   git clone [URL_DE_TU_REPOSITORIO]
+   git clone [https://github.com/ugarciarios/Arbolesjava/tree/main]
    ```
 2. Abra la carpeta del proyecto en **VS Code**.
 3. Asegúrese de tener instalada la extensión *Extension Pack for Java*.
